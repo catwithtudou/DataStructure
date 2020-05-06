@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549807930 source:f:\作业\第五章串\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SeqString.h"
+
+1549806557 source:f:\作业\第五章串\seqstring.c
+	"SeqString.h"
+
+1549806335 f:\作业\第五章串\seqstring.h
+	"StatusLib.h"
+	<string.h>
+
+1549781911 f:\作业\第五章串\statuslib.h
+	<stdio.h>
+	<stdlib.h>
+

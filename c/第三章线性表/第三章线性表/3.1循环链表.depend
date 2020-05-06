@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1549711885 source:f:\作业\3.1循环链表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CircularLinkList.h"
+	"StaticLinkList.h"
+	"DoublyLinkList.h"
+
+1549592276 source:f:\作业\3.1循环链表\circularlinklist.c
+	"CircularLinkList.h"
+
+1549591014 f:\作业\3.1循环链表\circularlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DataElement.h"
+
+1549589731 f:\作业\3.1循环链表\dataelement.h
+
+1549596712 f:\作业\3.1循环链表\staticlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1549597306 source:f:\作业\3.1循环链表\staticlinklist.c
+	"StaticLinkList.h"
+
+1549711885 source:f:\作业\3.1循环链表\doublylinklist.c
+	"DoublyLinkList.h"
+
+1549604633 f:\作业\3.1循环链表\doublylinklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+

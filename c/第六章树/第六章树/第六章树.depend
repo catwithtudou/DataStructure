@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1549891795 source:f:\作业\第六章树\seqtree.c
+	"SeqTree.h"
+
+1549891795 f:\作业\第六章树\seqtree.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1550065795 source:f:\作业\第六章树\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SeqTree.h"
+	"BinaryTree.h"
+	"Brother.h"
+
+1549974192 source:f:\作业\第六章树\binarytree.c
+	"BinaryTree.h"
+	"LinkedStack.h"
+	"LinkedQueue.h"
+
+1549974186 f:\作业\第六章树\binarytree.h
+	"TreeNode.h"
+	<string.h>
+
+1549894167 f:\作业\第六章树\treenode.h
+	"ElementType.h"
+
+1549976702 f:\作业\第六章树\elementtype.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549972327 source:f:\作业\第六章树\linkedstack.c
+	"LinkedStack.h"
+
+1549972327 f:\作业\第六章树\linkedstack.h
+	"TreeNode.h"
+	<stdio.h>
+
+1549974186 f:\作业\第六章树\linkedqueue.h
+	"TreeNode.h"
+	<string.h>
+
+1549974237 source:f:\作业\第六章树\linkedqueue.c
+	"LinkedQueue.h"
+
+1550064445 source:f:\作业\第六章树\brother.c
+	"Brother.h"
+
+1550066831 f:\作业\第六章树\brother.h
+	<string.h>
+	"BrotherLinkedQueue.h"
+
+1550063402 source:f:\作业\第六章树\brotherlinkedqueue.c
+	"BrotherLinkedQueue.h"
+
+1550064592 f:\作业\第六章树\brotherlinkedqueue.h
+	<string.h>
+	"ElementType.h"
+
+1550065757 source:f:\作业\第六章树\filetest.c
+	"FileTest.h"
+
+1550065737 f:\作业\第六章树\filetest.h
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<sys/fcntl.h>
+

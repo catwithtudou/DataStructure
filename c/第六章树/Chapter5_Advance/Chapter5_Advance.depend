@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1533195256 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\brothertree.c
+	"BrotherTree.h"
+	"LinkedQueue.h"
+
+1533111119 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\brothertree.h
+	"Element.h"
+
+1531984475 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\element.h
+	<stdio.h>
+	<stdlib.h>
+
+1533113444 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedqueue.h
+	<stdio.h>
+	<stdlib.h>
+	"BrotherTree.h"
+
+1533113577 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedqueue.c
+	"LinkedQueue.h"
+
+1532432241 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedstack.c
+	"LinkedStack.h"
+
+1532432104 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedstack.h
+	<stdio.h>
+	"TreeNode.h"
+
+1533116123 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\treenode.h
+	"Element.h"
+
+1533020678 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\parenttree.c
+	"ParentTree.h"
+
+1533018070 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\parenttree.h
+	"Element.h"
+
+1533193646 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ParentTree.h"
+	"BrotherTree.h"
+	"FileTree.h"
+
+1533124946 source:g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\brothertree.c
+	"BrotherTree.h"
+	"LinkedQueue.h"
+
+1533124946 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\brothertree.h
+	"Element.h"
+
+1533124946 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\element.h
+	<stdio.h>
+	<stdlib.h>
+
+1533124946 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedqueue.h
+	<stdio.h>
+	<stdlib.h>
+	"BrotherTree.h"
+
+1533124946 source:g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedqueue.c
+	"LinkedQueue.h"
+
+1533124946 source:g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedstack.c
+	"LinkedStack.h"
+
+1533124946 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\linkedstack.h
+	<stdio.h>
+	"TreeNode.h"
+
+1533124946 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\treenode.h
+	"Element.h"
+
+1533129691 source:g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ParentTree.h"
+	"BrotherTree.h"
+	"FileTree.h"
+
+1533124946 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\parenttree.h
+	"Element.h"
+
+1533124946 source:g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\parenttree.c
+	"ParentTree.h"
+
+1533128284 g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\filetree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1533130734 source:g:\synologydrive\当前工作目录\online-video-code\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\filetree.c
+	"FileTree.h"
+
+1533198192 c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\filetree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+	<sys/stat.h>
+	"LinkedQueue.h"
+	"LinkedStack.h"
+
+1533201023 source:c:\users\窖头\desktop\临时存档\数据结构与算法直播课\数据结构与算法直播课\工作空间\datastructure_source_code\chapter5_advance\filetree.c
+	"FileTree.h"
+

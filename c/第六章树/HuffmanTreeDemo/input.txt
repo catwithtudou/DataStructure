@@ -1,0 +1,13 @@
+void Coding(HaffNode * node,char * tempCode,int index)
+{
+    if(!node)return;
+    if(node->leftChild==NULL||node->rightChild==NULL){
+        tempCode[index]='\0';   //{'0','0','\0'};
+        strcpy(code[node->data-0],tempCode);
+        return;
+    }
+    tempCode[index]='0';
+    Coding(node->leftChild,tempCode,index+1);
+    tempCode[index]='1';
+    Coding(node->rightChild,tempCode,index+1);
+}

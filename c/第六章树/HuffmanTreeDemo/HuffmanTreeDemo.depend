@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1550223236 source:f:\作业\huffmantreedemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HaffmanTree.h"
+
+1550223236 source:f:\作业\huffmantreedemo\haffmantree.c
+	"HaffmanTree.h"
+
+1550223236 f:\作业\huffmantreedemo\haffmantree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

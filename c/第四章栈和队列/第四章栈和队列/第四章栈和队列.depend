@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1549720489 source:f:\作业\第四章栈和队列\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SeStack.h"
+	"Element.h"
+	"LinkStack.h"
+	"Gobang.h"
+
+1549715720 f:\作业\第四章栈和队列\sestack.h
+	<stdio.h>
+	<stdlib.h>
+	"Element.h"
+
+1549719150 f:\作业\第四章栈和队列\element.h
+
+1549715720 source:f:\作业\第四章栈和队列\seqstack.c
+	"SeStack.h"
+
+1549719150 source:f:\作业\第四章栈和队列\linkedstack.c
+	"LinkStack.h"
+
+1549719782 f:\作业\第四章栈和队列\linkstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Element.h"
+
+1549719782 source:f:\作业\第四章栈和队列\gobang.c
+	"Gobang.h"
+
+1549719782 f:\作业\第四章栈和队列\gobang.h
+	<stdio.h>
+	<stdlib.h>
+	"Element.h"
+
+1549777215 source:f:\作业\第四章栈和队列\seqqueue.c
+	"SeqQueue.h"
+
+1549777250 f:\作业\第四章栈和队列\seqqueue.h
+	<stdio.h>
+	<stdlib.h>
+	"Element.h"
+
